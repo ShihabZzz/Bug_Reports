@@ -26,7 +26,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Logs**
+**Logs** (not to be missed)
 Post a link to a logcat or kernel logs.
 
 **Recovery**
